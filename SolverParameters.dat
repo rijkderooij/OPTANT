@@ -1,0 +1,6 @@
+Trilinos_Solver Mumps
+MatrixProperty SPD
+PrintTiming false
+PrintStatus false
+FEI_OUTPUT_PATH log/
+FEI_OUTPUT_LEVEL none

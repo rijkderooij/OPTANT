@@ -1,0 +1,7 @@
+PrintModelInfo false
+PrintNodalOutput true
+PrintElementOutput true
+PrintElementStrains true
+PrintElementForces true
+PrintElementStrainEnergy true
+PrintNodalBucklingOutput true
