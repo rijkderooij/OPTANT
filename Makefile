@@ -50,7 +50,7 @@ NPROC = 2
 MAINFILE = OPTANT
 TESTFILE = OPTANT_test
 ELEMTESTFILE = OPTANT_test_elem
-INPUTFILE = models/PlateBucklingPSModel.dat
+INPUTFILE = models/PlateBucklingModel.dat
 SOLVERFILE = SolverParameters.dat
 REQUESTFILE = OutputRequests.dat
 
