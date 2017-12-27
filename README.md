@@ -12,4 +12,6 @@ Trilinos
 
 Input files is specified on line 53 of Makefile
 
+User manual and Reference guide are in main folder.
+
 
